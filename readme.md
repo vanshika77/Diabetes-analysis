@@ -6,5 +6,5 @@ To check the impact on diabetes level due to pregnany, glucose, blood presure, s
 Data for analysis:
 https://github.com/vanshika77/Diabetes-analysis/blob/main/diabetes.csv
 
-Code for ANN diabetes analysis:
+ANN code for diabetes analysis:
 https://github.com/vanshika77/Diabetes-analysis/blob/main/diabetes.ipynb
